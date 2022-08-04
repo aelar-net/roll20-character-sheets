@@ -281,5 +281,15 @@
     "other": "Otro",
     "token-init-u": "Iniciativa token",
     "token-init-desc-u": "Iniciativa token. Utiliza esto cuando no vincules la Iniciativa a un token en el rastreador de turnos y para evitar los molestos mensajes de error cuando no se selecciona ningún token.",
-    "token-init-abbr-u": "Inic. token"
+    "token-init-abbr-u": "Inic. token",
+    "panic-6": "MANTIENES LA CALMA. Te las arreglas para mantener tus nervios en control, apenas.",
+    "panic-7": "ESPASMO NERVIOSO. Tu NIVEL DE TENSIÓN, y el NIVEL DE TENSIÓN de todos los PJs aliados en CORTO alcance de ti, se incrementan en uno.",
+    "panic-8": "TEMBLORES. Comienzas a temblar incontrolablemente. Todas las tiradas que usen AGILIDAD sufren un modificador -2 hasta que tu pánico se detenga.",
+    "panic-9": "TIRAS UN OBJETO. Ya sea por tensión, confusión o porque te has dado cuenta de que todos van a morir, dejas caer un arma u otro objeto importante—el GM decide cuál. Tu NIVEL DE TENSIÓN se incrementa en uno.",
+    "panic-10": "CONGELADO. Estás congelado de miedo o tensión por una Ronda, perdiendo tu acción lenta siguiente. Tu NIVEL DE TENSIÓN, y el NIVEL DE TENSIÓN de todos los PJs aliados en CORTO alcance de ti, incrementan en uno.",
+    "panic-11": "BUSCA REFUGIO. Debes utilizar tu próxima acción para moverte lejos del peligro y encontrar un lugar seguro de ser posible. No se te permite hacer una tirada para retirarte (ver página 93) si tienes un enemigo en rango de Interacción. Tu NIVEL DE TENSIÓN se reduce en uno, pero el NIVEL DE TENSIÓN de todos los PJs aliados en CORTO alcance de ti, incrementan en uno. Después de una Ronda, puedes actual con normalidad.",
+    "panic-12": "GRITAS. Gritas a todo pulmón por una Ronda, perdiendo tu próxima acción lenta. Tu NIVEL DE TENSIÓN se reduce en uno, pero todos los personajes aliados que escuchen tu grito deben realizar una Tirada de Pánico inmediatamente.",
+    "panic-13": "HUYES. No puedes soportarlo más. Debes huir a un lugar seguro y te niegas a salir de él. Ya no atacarás más y no intentarás nada arriesgado. No se te permite hacer una tirada para retirarte (ver página 93) si tienes un enemigo en rango de Interacción al momento de huir. Tu NIVEL DE TENSIÓN se reduce en uno, pero todo personaje aliado que observe tu huida debe realizar una Tirada de Pánico inmediatamente.",
+    "panic-14": "ENLOQUECIDO. Debes atacar inmediatamente a la persona o criatura más próxima, aliada o no. No te detendrás hasta que tú o tu objetivo este ROTO. Cualquier personaje aliado que sea testigo de tu alboroto debe realizar una Tirada de Pánico inmediatamente.",
+    "panic-15": "CATATÓNICO. Colapsas y caes al piso, no puedes hablar o moverte, y te quedas mirando fijamente hacia el olvido."
 }
